@@ -2,7 +2,7 @@ Hello, World! 🌍👋
 I'm Anuj M, a recent B.Tech graduate in Computer Science and Engineering specializing in Artificial Intelligence and Machine Learning from Presidency University, Bengaluru. My mission is to create impactful solutions through innovation, collaboration, and technical expertise.
 
 🔧 What I Bring to the Table:
-A strong foundation in Python, Java, HTML, and MySQL.
+A strong foundation in Python, HTML, CSS, JavaScript, MySQL and Django.
 Hands-on experience with projects like:
 Medicine Strip Recognition using Deep Learning: Developed a deep learning model for medicine identification with Java Full Stack and MySQL.
 Event Management and Ticketing Analytics: Designed Power BI dashboards for real-time event performance and marketing insights.
