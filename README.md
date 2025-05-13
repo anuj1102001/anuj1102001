@@ -9,7 +9,7 @@ Event Management and Ticketing Analytics: Designed Power BI dashboards for real-
 Co-authored research papers on Generative AI in Music Composition and Deep Learning for Medicine Strip Recognition.
 
 🌟 Certifications Include:
-Cloud Computing (AWS), SQL (HackerRank), and Machine Learning (Kaggle).
+SQL (HackerRank), and Machine Learning (Kaggle).
 Web Development (Coursera) and Prompt Engineering for Generative AI (LinkedIn Learning).
 
 🚀 Why I Code:
