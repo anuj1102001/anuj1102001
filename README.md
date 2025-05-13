@@ -3,13 +3,19 @@ I'm Anuj M, a recent B.Tech graduate in Computer Science and Engineering special
 
 🔧 What I Bring to the Table:
 A strong foundation in Python, HTML, CSS, JavaScript, MySQL and Django.
-Hands-on experience with projects like:
+Hands-on experience with projects like:   
+
 1.Medicine Strip Recognition using Deep Learning: Developed a deep learning model for medicine identification with Java Full Stack and MySQL.   
+
 2.Event Management and Ticketing Analytics: Designed Power BI dashboards for real-time event performance and marketing insights.
 Co-authored research papers on Generative AI in Music Composition and Deep Learning for Medicine Strip Recognition.   
+
 3.SHOPLY–E-COMMERCE-SITE: Designed and built a multi-page, fully responsive fashion retail website using HTML, CSS, and JavaScript.
 Includes product listings, shopping cart, branded layouts, and interactive features across Home, Shop, Cart, Contact, and About pages.
-Wth focus on clean UI/UX, mobile responsiveness, and professional front-end development.
+Wth focus on clean UI/UX, mobile responsiveness, and professional front-end development.   
+
+4.BookYourShow – Online Movie Ticket Booking System (Django):
+A dynamic web application built with Django that replicates BookMyShow-like functionality. Features include user registration/login, movie listings, showtime selection, seat booking, Stripe-integrated payments, and user profile with order history. Built with a focus on smooth user flow, secure transactions, and responsive front-end design.
 
 
 🌟 Certifications Include:
