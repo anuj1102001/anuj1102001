@@ -1,35 +1,187 @@
-Hello, World! 🌍👋
-I'm Anuj M, a recent B.Tech graduate in Computer Science and Engineering specializing in Artificial Intelligence and Machine Learning from Presidency University, Bengaluru. My mission is to create impactful solutions through innovation, collaboration, and technical expertise.
+# Hi, I'm Anuj M 👋
 
-🔧 What I Bring to the Table:
-A strong foundation in Python, HTML, CSS, JavaScript, MySQL and Django.
-Hands-on experience with projects like:   
+### AI/ML Engineer | Generative AI | RAG | LLM Evaluation | Full-Stack Development
 
-1.Medicine Strip Recognition using Deep Learning: Developed a deep learning model for medicine identification with Java Full Stack and MySQL.   
+I'm an **AI/ML-focused Software Engineer** based in Bengaluru, India, passionate about building practical AI applications and exploring how Large Language Models can solve real-world problems.
 
-2.Event Management and Ticketing Analytics: Designed Power BI dashboards for real-time event performance and marketing insights.
-Co-authored research papers on Generative AI in Music Composition and Deep Learning for Medicine Strip Recognition.   
+I have hands-on experience in **LLM evaluation, prompt engineering, Generative AI, Retrieval-Augmented Generation (RAG), and full-stack application development**. I've worked on evaluating AI model outputs for accuracy, factual consistency, safety, and compliance, while also building AI-powered applications using modern GenAI technologies.
 
-3.SHOPLY–E-COMMERCE-SITE: Designed and built a multi-page, fully responsive fashion retail website using HTML, CSS, and JavaScript.
-Includes product listings, shopping cart, branded layouts, and interactive features across Home, Shop, Cart, Contact, and About pages.
-Wth focus on clean UI/UX, mobile responsiveness, and professional front-end development.   
+Currently, I'm focused on building and learning more about **LLMs, RAG systems, AI agents, semantic search, and production-ready AI applications.**
 
-4.BookYourShow – Online Movie Ticket Booking System (Django):
-A dynamic web application built with Django that replicates BookMyShow-like functionality. Features include user registration/login, movie listings, showtime selection, seat booking, Stripe-integrated payments, and user profile with order history. Built with a focus on smooth user flow, secure transactions, and responsive front-end design.
+---
 
+## 🚀 What I Do
 
-🌟 Certifications Include:
-SQL (HackerRank), and Machine Learning (Kaggle).
-Web Development (Coursera) and Prompt Engineering for Generative AI (LinkedIn Learning).
+* 🤖 Build **Generative AI & LLM applications**
+* 🔎 Develop **Retrieval-Augmented Generation (RAG)** systems
+* 🧠 Perform **LLM evaluation & prompt engineering**
+* 📚 Work with **embeddings, semantic search & vector databases**
+* ⚡ Build AI APIs using **FastAPI**
+* 🌐 Develop full-stack applications using **Django & React**
+* 🗄️ Work with **MySQL, FAISS & other data technologies**
+* 🛠️ Experiment with **Llama 3, Google Gemini, LangChain & Ollama**
 
-🚀 Why I Code:
-I’m passionate about solving problems, adapting to new challenges, and building tech-driven solutions that make a difference. My work is guided by a belief in continuous learning and innovation.
+---
 
-🎯 Beyond Code:
-When I’m not at my desk, you’ll find me playing football, painting, or swimming. Fitness and creativity are integral to my lifestyle, keeping me balanced and driven.
-Feel free to explore my repositories and connect for collaborations. Let’s build the future, one line of code at a time!
+## 💻 Tech Stack
 
-📬 Let’s Connect:
-Email: anujleo46@gmail.com
-Phone: +91 89717 41445
-LinkedIn: linkedin.com/in/anuj-madhu-622504221
+### AI / Machine Learning
+
+`Python` `Machine Learning` `Generative AI` `RAG` `LangChain` `Llama 3` `Google Gemini API` `Prompt Engineering` `Semantic Search` `Hugging Face Embeddings`
+
+### Backend
+
+`FastAPI` `Django` `Python` `Java`
+
+### Frontend
+
+`React.js` `JavaScript` `HTML` `CSS` `Streamlit`
+
+### Databases & Tools
+
+`FAISS` `MySQL` `Git` `GitHub` `Ollama` `PyMuPDF` `Swagger UI`
+
+---
+
+## 🔥 Featured Projects
+
+### 🤖 AI Resume Assistant
+
+An AI-powered resume analysis and question-answering application built around **RAG**.
+
+**Tech:** FastAPI · Streamlit · LangChain · FAISS · Llama 3 · RAG
+
+**Features:**
+
+* 💬 AI Resume Chat
+* 📊 Resume Dashboard
+* 🎯 ATS Resume Score
+* 🧑‍💼 Recruiter Mode / Job Matching
+* 📝 AI Resume Review
+* 🧠 Conversation Memory
+* 🔎 Semantic search using vector embeddings
+
+The system retrieves relevant resume sections using **FAISS vector search** before generating context-aware responses, improving answer relevance and explainability.
+
+---
+
+### 📄 AI Document Summarizer
+
+An AI-powered REST API for summarizing PDF documents using Google's Gemini API.
+
+**Tech:** FastAPI · Python · Google Gemini API · PyMuPDF · Swagger UI
+
+**Features:**
+
+* 📑 PDF text extraction
+* 🤖 AI-powered summarization
+* 📌 Bullet summary
+* ⚡ Short summary
+* 📖 Detailed summary
+* 🧑‍🏫 Simple summary
+* 🔌 REST API
+* 🧪 Swagger API documentation
+
+API credentials are securely managed using environment variables.
+
+---
+
+### 🎬 BookYourShow
+
+A full-stack movie ticket booking platform built with Django.
+
+**Tech:** Django · Python · MySQL · JavaScript · HTML · CSS
+
+**Features:**
+
+* 🎥 Movie listings
+* 🏢 Theatre selection
+* 💺 Seat selection & booking
+* 🔐 User authentication
+* 🎟️ Ticket confirmation
+* 📱 Responsive UI
+
+---
+
+### 💊 Medicine Strip Recognition
+
+A deep learning-based system for identifying medicine strips.
+
+**Tech:** Java · OpenCV · TensorFlow · MySQL
+
+Built end-to-end modules covering medicine identification, database management, and prediction workflows.
+
+The project was also published as a co-authored research paper in **IJCRT**.
+
+---
+
+## 💼 Experience
+
+**Technical Research Associate – AI @ Keywords Studios**
+*Nov 2025 – Jul 2026*
+
+* Evaluated LLM outputs for accuracy, factual consistency, safety, and compliance.
+* Performed prompt engineering and model behavior analysis.
+* Identified hallucinations, edge cases, and failure patterns.
+* Provided structured feedback to improve AI model quality.
+
+**Research Associate – AI @ Keywords Studios**
+*Jul 2025 – Nov 2025*
+
+* Worked on Generative AI model training.
+* Created prompts and evaluated AI-generated responses.
+* Performed data annotation and dataset creation.
+* Supported model fine-tuning and continuous improvement.
+
+**Web Development Intern @ Robowaves**
+*Feb 2025 – May 2025*
+
+* Developed **Shoply**, a responsive eCommerce application.
+* Implemented product listings, shopping cart, checkout workflows, and responsive UI.
+
+---
+
+## 📚 Education
+
+🎓 **B.Tech — Computer Science & Engineering (AI & ML)**
+Presidency University, Bengaluru
+2020 – 2024
+
+💻 **Python Full Stack Development Bootcamp**
+QSpiders, Bengaluru
+2024 – 2025
+
+---
+
+## 📜 Certifications
+
+* IBM AI Fundamentals
+* LinkedIn Learning — Prompt Engineering for Generative AI
+* Kaggle — Intro to Machine Learning
+* HackerRank — SQL
+
+---
+
+## 📝 Publications
+
+📄 **Exploring the Evolution of GenAI in Music Composition**
+IJFMR — Volume 6, Issue 3, May–June 2024
+
+📄 **Medicine Strip Recognition using Deep Learning**
+IJCRT — Volume 12, Issue 1, January 2024
+
+---
+
+## 🤝 Let's Connect
+
+📧 **Email:** [anujleo46@gmail.com](mailto:anujleo46@gmail.com)
+💼 **LinkedIn:** [linkedin.com/in/anuj1102001](https://linkedin.com/in/anuj1102001)
+🐙 **GitHub:** [github.com/anuj1102001](https://github.com/anuj1102001)
+
+---
+
+### 💡 Currently Exploring
+
+`LLM Applications` · `RAG` · `AI Agents` · `LangChain` · `LangGraph` · `Vector Databases` · `Semantic Search` · `Prompt Engineering` · `AI Engineering`
+
+> *Building AI applications that are useful, explainable, and production-ready.* 🚀
