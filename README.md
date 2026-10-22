@@ -110,13 +110,25 @@ An original concept for a city sneaker collection: one idea carried through the 
 
 What I've shipped with, and where you can see it.
 
-| Area | Skills | Shown in |
-|---|---|---|
-| **AI & Generative AI** | LLM application development, prompt design, structured outputs, RAG, embeddings and semantic search, hybrid retrieval, grounding and citation checks, LLM evaluation | Shortlist, Margin; LLM evaluation at Keywords Studios |
-| **Product & UX design** | Problem framing and scoping, user flows, interactive prototyping, design systems and tokens, interaction and motion design, explainable-AI patterns, case studies, Figma | FITFLOW, Shortlist, COMET 2.0 |
-| **Engineering** | Python, FastAPI, TypeScript, JavaScript, React, Next.js, Tailwind CSS, Django, REST APIs, payment API integration | All of the above |
-| **Data & infrastructure** | SQL, SQLite, PostgreSQL, MySQL, Pandas, Power BI, Tableau, Git, GitHub Actions CI, Docker, Vercel, Render | Shortlist, Margin, Creators Store; analytics work |
-| **Automation** | Scripted evaluation pipelines, automated screenshot and narrated-walkthrough generation, scheduled payment reconciliation | Shortlist, Margin, FITFLOW, Creators Store |
+**AI & Generative AI**<br>
+LLM application development · prompt design · structured outputs · RAG · embeddings and semantic search · hybrid retrieval · grounding and citation checks · LLM evaluation<br>
+<sub>Shown in Shortlist and Margin, and a year of LLM evaluation at Keywords Studios</sub>
+
+**Product & UX design**<br>
+Problem framing and scoping · user flows · interactive prototyping · design systems and tokens · interaction and motion design · explainable-AI patterns · case studies · Figma<br>
+<sub>Shown in FITFLOW, Shortlist and COMET 2.0</sub>
+
+**Engineering**<br>
+Python · FastAPI · TypeScript · JavaScript · React · Next.js · Tailwind CSS · Django · REST APIs · payment API integration<br>
+<sub>Shown across all the projects above</sub>
+
+**Data & infrastructure**<br>
+SQL · SQLite · PostgreSQL · MySQL · Pandas · Power BI · Tableau · Git · GitHub Actions CI · Docker · Vercel · Render<br>
+<sub>Shown in Shortlist, Margin, Creators Store and my analytics work</sub>
+
+**Automation**<br>
+Scripted evaluation pipelines · automated screenshot and narrated-walkthrough generation · scheduled payment reconciliation<br>
+<sub>Shown in Shortlist, Margin, FITFLOW and Creators Store</sub>
 
 **Used in earlier projects:** LangChain, FAISS, Llama 3 with Ollama, Streamlit (the first versions of Shortlist and Margin); TensorFlow and OpenCV (medicine strip recognition, 2023).
 
