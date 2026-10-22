@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Anuj M, AI Product Designer and Builder">
+  <style>
+    .sans { font-family: ui-sans-serif, -apple-system, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; }
+  </style>
+  <rect width="1200" height="360" rx="20" fill="#F6F6F2"/>
+  <rect x="0.5" y="0.5" width="1199" height="359" rx="19.5" fill="none" stroke="#E2E2DA"/>
+
+  <!-- Identity -->
+  <text x="72" y="104" class="mono" font-size="17" letter-spacing="3" fill="#2F49D8">AI PRODUCT DESIGN · GENERATIVE AI · ENGINEERING</text>
+  <text x="68" y="212" class="sans" font-size="104" font-weight="700" letter-spacing="-3" fill="#14161C">Anuj M</text>
+  <text x="72" y="270" class="sans" font-size="34" font-weight="500" fill="#4A4F5C">AI Product Designer &amp; Builder</text>
+
+  <!-- Motif: an AI answer whose claim is backed by a highlighted quote -->
+  <g transform="translate(748 64)">
+    <rect width="380" height="232" rx="16" fill="#FFFFFF" stroke="#E2E2DA"/>
+    <circle cx="28" cy="28" r="5" fill="#E2E2DA"/>
+    <circle cx="46" cy="28" r="5" fill="#E2E2DA"/>
+    <circle cx="64" cy="28" r="5" fill="#E2E2DA"/>
+    <rect x="28" y="60" width="300" height="12" rx="6" fill="#E9E9E3"/>
+    <rect x="28" y="84" width="96" height="12" rx="6" fill="#E9E9E3"/>
+    <rect x="132" y="80" width="196" height="20" rx="5" fill="#FFE680"/>
+    <rect x="140" y="84" width="180" height="12" rx="6" fill="#E3C94A" opacity="0.55"/>
+    <rect x="28" y="112" width="250" height="12" rx="6" fill="#E9E9E3"/>
+    <rect x="28" y="148" width="138" height="30" rx="15" fill="#E7F5EC" stroke="#9FD7B3"/>
+    <path d="M44 163 l6 6 l11 -12" fill="none" stroke="#1E8A4C" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="70" y="169" class="mono" font-size="15" fill="#1E8A4C">verified</text>
+    <rect x="176" y="148" width="132" height="30" rx="15" fill="#EEF1FF" stroke="#BFC9FA"/>
+    <text x="194" y="169" class="mono" font-size="15" fill="#2F49D8">judgement</text>
+    <rect x="28" y="196" width="180" height="10" rx="5" fill="#F0F0EA"/>
+  </g>
+</svg>
