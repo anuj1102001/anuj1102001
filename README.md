@@ -78,31 +78,41 @@ These show up in every project below.
 
 <sub>A portfolio prototype: fictional coach, sample data and simulated AI. No messages are ever sent.</sub>
 
-<details>
-<summary><b>More product work</b>: Creators Store (live SaaS) and COMET 2.0 (brand and UX case study)</summary>
-<br>
-
-#### Creators Store · storefront for Indian creators
+### Creators Store · storefront for Indian creators
 
 [![Creators Store home page](https://raw.githubusercontent.com/anuj1102001/creators-store-showcase/main/screenshots/home.png)](https://www.creators-store.site)
 
-A store, UPI checkout and instant delivery for coaches who sell programs on Instagram. Buyers pay straight into the creator's own Razorpay account, so the platform takes 0% commission. The product includes a store builder, a guided payments setup, analytics and an admin console, with 33 automated tests covering payments, refunds and webhooks. Live on its own domain and tested end to end in Razorpay test mode. Early stage, with no paying customers yet.
+**Problem.** Coaches who sell programs on Instagram take orders in DMs, check UPI screenshots by hand, and lose a cut of every sale to creator platforms.<br>
+**Solution.** A store, UPI checkout and instant delivery in one bio link. Buyers pay straight into the creator's own Razorpay account, so the platform takes 0% commission and never holds the money.
+
+- A guided payments setup: step-by-step Razorpay connection, keys checked with Razorpay and stored encrypted, and a test purchase before going live
+- Store builder, products and private downloads, orders and refunds, customer list, analytics, and a "You kept" dashboard comparing 0% commission with a typical 10% platform
+- Orders fulfilled only after server-side payment verification, with reconciliation for buyers who close the tab, and 33 automated tests covering payments, refunds and webhooks
+- Light, dark and match-device themes; AI tools are kept in a clearly labelled preview until they run on a real model
 
 `Next.js` `React` `TypeScript` `PostgreSQL` `Drizzle ORM` `Razorpay API` `Vercel`
 
-**[Live site](https://www.creators-store.site)** · **[Walkthrough video](https://anuj1102001.github.io/creators-store-showcase/watch.html)** · **[Showcase](https://github.com/anuj1102001/creators-store-showcase)** (source is private)
+**[Live site](https://www.creators-store.site)** · **[Walkthrough video](https://anuj1102001.github.io/creators-store-showcase/watch.html)** · **[Showcase](https://github.com/anuj1102001/creators-store-showcase)**
 
-#### COMET 2.0 · Mumbai in Motion
+<sub>Live on its own domain and tested end to end in Razorpay test mode. Early stage, with no paying customers yet. The application source is private.</sub>
+
+### COMET 2.0 · Mumbai in Motion
 
 [![COMET 2.0 sneaker render](https://raw.githubusercontent.com/anuj1102001/comet-2-mumbai-in-motion/master/design/photo/web/01-local-lateral-hero.jpg)](https://comet-mumbai.vercel.app)
 
-An original concept for a city sneaker collection: one idea carried through the product, packaging, a three-world campaign, a 20-second launch film and a 10-chapter scroll-driven launch site. The case study separates desk research, hypotheses and proposals from what was actually built.
+**Problem.** City-themed products tend to become souvenirs: every landmark at once, flattened into a collage.<br>
+**Solution.** An original concept for a Mumbai sneaker collection, told through everyday life (local trains, the CSMT terminus, vintage postcards, street lettering) and carried consistently from the shoe to the box, the campaign and the website.
 
-`Concept & art direction` `Brand` `Next.js` `TypeScript` `Motion design`
+- Three editions on one silhouette, with poster-box packaging, a three-world campaign with ad formats, and a 20-second launch film in 16:9 and 9:16
+- A 10-chapter, scroll-driven launch site that respects reduced-motion settings and is built to stay fast on ordinary phones
+- Design decisions documented, including dropping a weak real-time 3D shoe for the approved renders
+- A case study that labels each claim as desk research, hypothesis, proposal or built
+
+`Concept & art direction` `Brand & packaging` `Motion design` `Next.js` `TypeScript`
 
 **[Launch site](https://comet-mumbai.vercel.app)** · **[Case study](https://comet-mumbai.vercel.app/case-study)** · **[Code](https://github.com/anuj1102001/comet-2-mumbai-in-motion)**
 
-</details>
+<sub>A fictional label made for this portfolio case study, not affiliated with any real brand. Nothing has been manufactured or sold.</sub>
 
 ---
 
