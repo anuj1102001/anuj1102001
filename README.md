@@ -114,6 +114,24 @@ These show up in every project below.
 
 <sub>A fictional label made for this portfolio case study, not affiliated with any real brand. Nothing has been manufactured or sold.</sub>
 
+### Solune & Afterdark · coffee brand concept site
+
+[![Solune & Afterdark opening: the Afterdark bottle rising out of a ribbon of liquid coffee](assets/solune-afterdark.jpg)](https://solune-afterdark.vercel.app)
+
+**Problem.** Brand concepts usually stop at a moodboard and flat mockups, so you never get a feel for the product itself.<br>
+**Solution.** Two coffee concentrates, one for each half of the day, presented as an interactive publication: a liquid-coffee opening you can stir with the cursor, a pour bar that builds a serve in 3D, and photoreal bottles path-traced from the site's own 3D models.
+
+- A liquid sculpture of about 120,000 grains written in raw WebGL2, with the bottle rising out of it; quality adapts to the device and rendering pauses when it is off screen
+- Product shots path-traced in the browser: glass with real wall thickness, coffee as a volume that light passes through, and bottle cutouts made from a two-render matte; earlier real-time renders shown beside them
+- An editorial "book" structure: chapters, a night dial that morphs crescent to eclipse to dawn, a 3D pour bar, and a sound layer synthesised in the browser (off by default)
+- A measured performance pass on the previous version: total blocking time down from 5,435 ms to 537 ms (production build, desktop, on my machine)
+
+`Concept & art direction` `WebGL2 / GLSL` `Three.js` `React Three Fiber` `Path tracing` `GSAP` `Next.js` `TypeScript`
+
+**[Live site](https://solune-afterdark.vercel.app)**
+
+<sub>A concept: the brands, bottles and labels are my own designs, and campaign imagery was made with AI image tools under my art direction. Not affiliated with any coffee company; nothing is for sale. The source is private.</sub>
+
 ---
 
 ## Toolkit
@@ -126,10 +144,10 @@ LLM application development · prompt design · structured outputs · RAG · emb
 
 **Product & UX design**<br>
 Problem framing and scoping · user flows · interactive prototyping · design systems and tokens · interaction and motion design · explainable-AI patterns · case studies · Figma<br>
-<sub>Shown in FITFLOW, Shortlist and COMET 2.0</sub>
+<sub>Shown in FITFLOW, Shortlist, COMET 2.0 and Solune & Afterdark</sub>
 
 **Engineering**<br>
-Python · FastAPI · TypeScript · JavaScript · React · Next.js · Tailwind CSS · Django · REST APIs · payment API integration<br>
+Python · FastAPI · TypeScript · JavaScript · React · Next.js · Tailwind CSS · WebGL2 / GLSL · Three.js · Django · REST APIs · payment API integration<br>
 <sub>Shown across all the projects above</sub>
 
 **Data & infrastructure**<br>
