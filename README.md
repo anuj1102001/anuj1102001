@@ -61,12 +61,12 @@ These show up in every project below.
 
 **[Live demo](https://margin-docs.vercel.app)** · **[Case study](https://margin-docs.vercel.app/case-study)** · **[Code](https://github.com/anuj1102001/AI-Document-Summarizer)**
 
-### FITFLOW AI · product prototype for fitness coaches
+### FITFLOW AI · product prototype for fitness influencers and creators
 
 [![FITFLOW landing page](https://raw.githubusercontent.com/anuj1102001/fitflow-showcase/main/public/screens/landing.jpg)](https://fitflow-showcase.vercel.app)
 
-**Problem.** Independent coaches run their business from DMs and spreadsheets, so interested leads and slipping clients go quiet.<br>
-**Solution.** An interactive SaaS prototype built around one loop: a *Today* queue says who to message and why, follow-up sequences pause when someone replies, and every AI draft explains its reasoning. The coach always presses send.
+**Problem.** Fitness influencers and creators who coach their followers run the business from DMs and spreadsheets, so interested leads and slipping clients go quiet.<br>
+**Solution.** An interactive SaaS prototype built around one loop: a *Today* queue says who to message and why, follow-up sequences pause when someone replies, and every AI draft explains its reasoning. The creator always presses send.
 
 - Product definition and scope decisions, including cutting v1's storefront builder to focus on the follow-up loop
 - Design system with light and dark themes, colour tokens mirrored as variables in a [Figma file](https://www.figma.com/design/tplM1llRbk13QxwC9bzAxU), and motion design with GSAP
@@ -76,13 +76,13 @@ These show up in every project below.
 
 **[Live demo](https://fitflow-showcase.vercel.app)** · **[Case study](https://fitflow-showcase.vercel.app/case-study)** · **[Code](https://github.com/anuj1102001/fitflow-showcase)**
 
-<sub>A portfolio prototype: fictional coach, sample data and simulated AI. No messages are ever sent.</sub>
+<sub>A portfolio prototype: a fictional fitness creator, sample data and simulated AI. No messages are ever sent.</sub>
 
-### Creators Store · storefront for Indian creators
+### Creators Store · storefront for Indian creators in every niche
 
 [![Creators Store home page](https://raw.githubusercontent.com/anuj1102001/creators-store-showcase/main/screenshots/home.png)](https://www.creators-store.site)
 
-**Problem.** Coaches who sell programs on Instagram take orders in DMs, check UPI screenshots by hand, and lose a cut of every sale to creator platforms.<br>
+**Problem.** Influencers and creators in every niche who sell on Instagram (programs, courses, downloads, calls and services) take orders in DMs, check UPI screenshots by hand, and lose a cut of every sale to creator platforms.<br>
 **Solution.** A store, UPI checkout and instant delivery in one bio link. Buyers pay straight into the creator's own Razorpay account, so the platform takes 0% commission and never holds the money.
 
 - A guided payments setup: step-by-step Razorpay connection, keys checked with Razorpay and stored encrypted, and a test purchase before going live
