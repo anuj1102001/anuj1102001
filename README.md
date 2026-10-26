@@ -5,8 +5,11 @@
 
 ### I design and build AI products that people can check, trust and actually use.
 
+**Portfolio: [anuj1102001.github.io](https://anuj1102001.github.io)**: case studies where every claim opens its evidence, an interactive career story, and a Pixel mode.
+
 I take an AI product from a problem worth solving to a working, deployed experience: the user flow, the interface and the design system, the model and retrieval pipeline behind it, and the evaluations that show whether it works. My background is in **LLM evaluation** (a year reviewing model outputs for accuracy and safety at Keywords Studios) and **Computer Science with AI & ML**, so I design AI features around what models get wrong, not just what they get right.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-anuj1102001.github.io-FF6A1F?style=flat-square&logoColor=white)](https://anuj1102001.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anuj_M-2F49D8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuj-m-622504221)
 [![Email](https://img.shields.io/badge/Email-anujleo46%40gmail.com-14161C?style=flat-square&logo=gmail&logoColor=white)](mailto:anujleo46@gmail.com)
 [![Based in](https://img.shields.io/badge/Based_in-Bengaluru,_India-5B6170?style=flat-square)](#)
@@ -188,4 +191,4 @@ I'm most useful on teams building LLM-powered products where trust matters: assi
 
 I build with AI coding agents (mainly [Claude Code](https://claude.com/claude-code)). I choose the problem, set the product direction and the design, review the code and the evaluations, and decide what ships. Each project's README says how it was made. Ask me about any decision in these projects and I'll walk you through it.
 
-<sub>Other work: [analytics portfolio](https://anuj1102001.github.io) · [BookYourShow](https://github.com/anuj1102001/BookYourShow) (Django ticket booking) · [Shoply](https://github.com/anuj1102001/SHOPLY-ECOMMERCE-SITE) (responsive storefront) · [Medicine strip recognition](https://github.com/anuj1102001/MEDICINE-STRIP-RECOGNITION) (deep learning, 2023)</sub>
+<sub>Other work: [analytics portfolio](https://anuj1102001.github.io/analytics/) · [BookYourShow](https://github.com/anuj1102001/BookYourShow) (Django ticket booking) · [Shoply](https://github.com/anuj1102001/SHOPLY-ECOMMERCE-SITE) (responsive storefront) · [Medicine strip recognition](https://github.com/anuj1102001/MEDICINE-STRIP-RECOGNITION) (deep learning, 2023)</sub>
